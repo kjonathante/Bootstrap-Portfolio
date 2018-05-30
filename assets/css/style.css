@@ -7,3 +7,7 @@ body {
   margin-right: 15px;
 
 }
+
+.panel-body {
+  text-align: center;
+}
